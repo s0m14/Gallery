@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">State</string>
+    <string name="first">Starry night</string>
+    <string name="second">Oleanders</string>
+    <string name="third">The white orchard</string>
+    <string name="fourth">The bedroom</string>
+    <string name="author">Van Gogh</string>
+</resources>
